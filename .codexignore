@@ -1,0 +1,11 @@
+# Advisory list of generated and local files. Codex file search uses .gitignore.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.runtime/
+.venv/
+/source_ui/
+/output/
+/tools/scs_packer_*/
+*.scs
+*.ini.bak

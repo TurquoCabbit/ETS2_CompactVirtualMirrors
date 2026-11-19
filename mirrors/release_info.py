@@ -1,0 +1,5 @@
+APP_NAME = "ETS2 Configurable Mirrors"
+VERSION = "0.2.0"
+AUTHOR = "TurquoCabbit"
+PROJECT_URL = "https://github.com/TurquoCabbit/ETS2_CompactVirtualMirrors"
+EXTRACTOR_URL = "https://modding.scssoft.com/wiki/Documentation/Tools/Game_Archive_Packer"

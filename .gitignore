@@ -1,0 +1,14 @@
+# Python environment and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.runtime/
+.venv/
+
+# Local ETS2 inputs, tools, and build outputs
+/source_ui/
+/output/
+/dist/
+/tools/scs_packer_*/
+*.scs
+*.ini.bak
